@@ -212,7 +212,6 @@ void draw() {
           }
         }
       }
-      println(stroll);
       //draw the groundhogLeft image between 1-14 frames
       if (leftPressed) {
         actionFrame++;
